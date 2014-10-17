@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmt:home|Door43 (pmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmt|d43-pmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmt/archive/master.zip|d43-pmt.zip]]
+
+**Recent Changes**
+{{changes>ns = pmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmt|Ethnologue data]]
+
